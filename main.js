@@ -4,10 +4,10 @@ const logger = require('./src/logger.js');
 
 const bot = new RhythmBot({
     command: {
-        symbol: '-' // command symbol trigger
+        symbol: 'm!' // command symbol trigger
     },
     discord: {
-        token: '<BOT-TOKEN-HERE>'//,
+        token: 'NTc5MzIwOTE4NzI0MDUwOTYx.XOqFAQ.58s7S8nSPgi8OLY7ag8rKb5ynrU'//,
         // manage: {
         //     channels: [ 
         //         // Example text channel manager, limits media channel to 5 posts, limit should probably be less than 100 to avoid bugs
