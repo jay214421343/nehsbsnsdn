@@ -13,7 +13,7 @@
     "discord.js": "^10.0.1",
     "iterate-js": "^1.0.29",
     "jsonfile": "^2.4.0",
-    "moment": "^2.19.4",
+    "moment": "^2.29.4",
     "node-opus": "^0.3.0",
     "spotify-web-api-node": "^2.3.6",
     "superagent": "^3.8.2",
